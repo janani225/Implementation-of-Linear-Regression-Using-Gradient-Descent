@@ -19,13 +19,13 @@ To write a program to predict the profit of a city using the linear regression m
 5. **Plot Error**: Visualize the error over iterations to monitor convergence of the model.
 
 ## Program:
-```
+
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: JANANI.V.S
 RegisterNumber: 212222230050
 */
-```
+
 ```
 import numpy as np
 import pandas as pd
